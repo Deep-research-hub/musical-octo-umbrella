@@ -1,0 +1,10 @@
+Build a simple interactive web app called "Deep Research Hub" for easy deep research simulations.
+
+Features:
+- Input form: Query topic, depth level (quick/medium/deep), niche (Web3 gaming, trees/env, general), enable verification checks?, include code analysis?
+- Preset: "Potentia Ludi research" (simulates wallet UX + market trends).
+- "Run Research" button: Simulates steps (search → analyze → cite → verify), shows progress log, generates report with findings, fake citations, accuracy score (e.g., 92/100 "Low hallucination risk"), pain flags (e.g., "Needs fresh data? UPDATE").
+- Output: Detailed report section, export JSON/PDF buttons.
+- Add metrics dashboard: Time saved, sources checked, dropoff risks.
+
+Use clean HTML/CSS/JS (or React if simple), responsive, dark mode. Make downloadable as zip with index.html ready to open.
